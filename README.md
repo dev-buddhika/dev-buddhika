@@ -29,10 +29,30 @@
 
 
 
+<table border="0">
+  <tr>
+    <td valign="bottom">
+      <h3>⚡ GitHub Stats</h3>
+    </td>
+    <td valign="bottom">
+      <h3>&nbsp;</h3>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=dev-buddhika&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="dev-buddhika's GitHub Stats" width="100%" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=dev-buddhika&show_icons=true&hide_border=true&theme=radical" alt="dev-buddhika's Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 
-
+<br>
+<hr>
+<br>
 
 
 
