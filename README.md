@@ -14,14 +14,18 @@
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** 
-- 🔭 I’m currently working on **test**
+</div> 
+<h3>
+ 
+* 🔭 I’m currently working on test
 
 - 🌱 ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
 
 - 📫 How to reach me **buddhikadu@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-</div> 
+</h3>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 </p> 
