@@ -12,15 +12,15 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** 
 - 🔭 I’m currently working on **test**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
 
 - 📫 How to reach me **buddhikadu@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
+</div> 
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-</p></div>  
+</p> 
 
 
  
