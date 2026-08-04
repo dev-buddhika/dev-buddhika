@@ -16,13 +16,19 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** 
 </div> 
 <h3>
- 
+
+* 🎓 I'm a Computer Engineering undergrad
+
 * 🔭 I’m currently working on test
 
 - 🌱 ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
 
 - 📫 How to reach me **buddhikadu@gmail.com**
 
+- ⚡ I love maths, programming and books
+ 
+- 💬 Ask me about anything, I am happy to help
+ 
 - ⚡ Fun fact **I think I am funny**
 </h3>
 
