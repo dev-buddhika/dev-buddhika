@@ -15,7 +15,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** 
 </div> 
-<h3>
+<h4>
 
 * 🎓 I'm a Computer Engineering undergrad
 
@@ -30,7 +30,7 @@
 - 💬 Ask me about anything, I am happy to help
  
 - ⚡ Fun fact **I think I am funny**
-</h3>
+</h4>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
