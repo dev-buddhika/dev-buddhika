@@ -99,7 +99,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 ashu-guo
+  &copy; 2026 dev-buddhika
 </div>
 
 
